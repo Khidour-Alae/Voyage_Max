@@ -11,6 +11,10 @@ Les utilisateurs peuvent visualiser ces villes sur une carte, cliquer sur une vi
 - Exploration détaillée des trajets aller-retour possibles pour chaque destination.
 - Support de la recherche flexible avec des intervalles de dates pour l'aller et/ou le retour.
 
+## Remarques:
+
+Le temps d'exécution est proportionnelle aux nombres de villes explorables à partir de la ville de départ et la période choisie, grand intervalle de dates = grand nombre de trajet --> temps d'exéctution plus grand. Donc ça peut aller de quelques secondes à quelques minutes pour les grandes villes comme Paris, Lyon ... ou quand la plage de dates est grande aussi. 
+
 ## Technologies Utilisées
 
 - Python
@@ -24,7 +28,9 @@ Les utilisateurs peuvent visualiser ces villes sur une carte, cliquer sur une vi
 
 Pour construire et exécuter Voyage Max dans un conteneur Docker, suivez ces étapes :
 
-1. **Construire l'image Docker**
+1. Lancer install.sh puis launch.sh
+
+2. Si ça ne marche pas **Construire l'image Docker**
 
    À partir du répertoire contenant le Dockerfile, exécutez la commande suivante pour construire votre image Docker :
 
@@ -33,5 +39,5 @@ Pour construire et exécuter Voyage Max dans un conteneur Docker, suivez ces ét
 
    docker run -p 8050:8050 tgvmax_app
 
-2. Ou bien lancer install.sh puis launch.sh
+
 
