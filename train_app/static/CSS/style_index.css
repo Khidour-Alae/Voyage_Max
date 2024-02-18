@@ -21,7 +21,7 @@ body {
 .logo {
     display: block; /* Rend l'image traitée comme un bloc */
     margin: 0 auto; /* Centrer horizontalement le logo dans le header */
-    width: 200px; /* Remplacez 200px par la largeur souhaitée pour votre logo */
+    width: 200px; /* Largeur logo */
     height: auto; /* Permet de conserver le ratio de l'image */
 }
 
@@ -36,7 +36,7 @@ body {
     background-image: url('../Images/Banderolle.webp');
     background-size: cover;
     background-position: center;
-    height: 430px; /* Ou la hauteur que vous souhaitez */
+    height: 430px; 
     background-position: 50% 62%;
 }
 
@@ -49,29 +49,29 @@ body {
     right: 0;
     bottom: 0;
     background: rgba(0, 0, 0, 0.5); /* Changez l'opacité ici */
-    z-index: 1; /* Assurez-vous que ce soit derrière le contenu */
+    z-index: 1; /* Assure que ce soit derrière le contenu */
 }
 
 .feature-content {
     position: relative;
     top: 40%;
-    left: 7%; /* Décalez à gauche en ajustant cette valeur */
-    transform: translateY(-50%); /* Changez translate(-50%, -50%) à translateY(-50%) pour affecter seulement l'axe Y */
+    left: 7%; /* Décale à gauche en ajustant cette valeur */
+    transform: translateY(-50%); /* Change translate(-50%, -50%) à translateY(-50%) pour affecter seulement l'axe Y */
     color: #bebebe;
     text-align: left; /* Aligne le texte à gauche */
-    width: 50%; /* Ajustez la largeur selon vos besoins */
-    z-index: 2; /* Assurez-vous que le texte reste au-dessus de la couche d'opacité */
+    width: 50%; /* Ajuste la largeur selon vos besoins */
+    z-index: 2; /* Assure que le texte reste au-dessus de la couche d'opacité */
 }
 
 .feature-content h2 {
-    font-size: 5rem; /* Augmentez la taille de la police comme vous le souhaitez */
-    margin-bottom: 0rem; /* Ajustez la marge en bas si nécessaire */
+    font-size: 5rem; /* Augmente la taille de la police  */
+    margin-bottom: 0rem; /* Ajuste la marge en bas si nécessaire */
     color: #D3D3D3;
-    font-family: 'Arial', sans-serif; /* Exemple de changement de la famille de polices */
+    font-family: 'Arial', sans-serif; 
 }
 
 .feature-content p {
-    font-size: 3rem; /* Augmentez la taille de la police comme vous le souhaitez */
+    font-size: 3rem; /* Augmente la taille de la police */
     font-family: 'Arial', sans-serif; /* Exemple de changement de la famille de polices */
 }
 
@@ -140,7 +140,7 @@ button[type="submit"]:hover {
     position: absolute; /* Position absolue pour la liste de suggestions */
     width: 100%; /* Largeur de la liste égale à celle de l'input */
     box-sizing: border-box; /* Pour inclure la bordure dans la largeur */
-    z-index: 1000; /* Assurez-vous que la liste est au-dessus des autres éléments */
+    z-index: 1000; /* Assure que la liste est au-dessus des autres éléments */
     max-height: 200px; /* Hauteur ajustée pour augmenter la longueur de la fenêtre */
     overflow-y: auto; /* Permettre le défilement vertical */
     background: #121f3d; /* Fond blanc pour les suggestions */
@@ -181,7 +181,7 @@ input[type=text], input[type=date] {
 
 /* Ajustement pour la partie facultative */
 .facultatif {
-    color: grey; /* ou utilisez une couleur hexadécimale spécifique comme #808080 */
+    color: grey; 
     font-style: italic;
 }
 /* Style global pour les formulaires (si nécessaire) */
@@ -194,7 +194,7 @@ form {
 }
 
 #ville_depart {
-    margin-bottom: 20px; /* Ajustez cette valeur au besoin */
+    margin-bottom: 20px; 
 }
 
 label  {
@@ -219,7 +219,7 @@ label  {
     align-items: center; /* Centrer les enfants en flex sur l'axe transversal */
     justify-content: center; /* Centrer les enfants en flex sur l'axe principal */
     margin: auto;
-    width: 80%; /* Ajustez ceci en fonction de la largeur souhaitée du formulaire */
+    width: 80%; 
 }
 
 
