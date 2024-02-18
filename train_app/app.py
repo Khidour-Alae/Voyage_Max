@@ -196,7 +196,7 @@ def recherche():
 
 @app.route('/resultat-<ville>')
 def resultat_ville(ville):
-    resultats_filtrés = filtrer_ville(RESULTATS_GLOBAUX, ville)  # Assurez-vous d'avoir accès à `resultats_globaux` ici
+    resultats_filtrés = filtrer_ville(RESULTATS_GLOBAUX, ville)  
     return render_template('resultat_ville.html', resultats=resultats_filtrés.to_dict('records'), ville=ville)
 
 if __name__ == "__main__":
