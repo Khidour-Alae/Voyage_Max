@@ -200,4 +200,4 @@ def resultat_ville(ville):
     return render_template('resultat_ville.html', resultats=resultats_filtrés.to_dict('records'), ville=ville)
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', debug=True)
+    app.run(host='0.0.0.0', debug=True, port=8050)
