@@ -1,0 +1,1210 @@
+{
+    "AEROPORT CDG2 TGV ROISSY": {
+        "longitude": 2.5721000382295407,
+        "latitude": 49.004484692101926
+    },
+    "AGDE": {
+        "longitude": 3.4707789,
+        "latitude": 43.3124696
+    },
+    "AGEN": {
+        "longitude": 0.6176112,
+        "latitude": 44.2015827
+    },
+    "AIME LA PLAGNE": {
+        "longitude": 6.612139747257789,
+        "latitude": 45.56609185
+    },
+    "AIX EN PROVENCE TGV": {
+        "longitude": 5.3172873,
+        "latitude": 43.4551451
+    },
+    "AIX LES BAINS LE REVARD": {
+        "longitude": 5.9089276,
+        "latitude": 45.688138
+    },
+    "ALBERTVILLE": {
+        "longitude": 6.3925417,
+        "latitude": 45.6754622
+    },
+    "ALBI MADELEINE": {
+        "longitude": 2.1411513,
+        "latitude": 43.9381958
+    },
+    "ALBI VILLE": {
+        "longitude": 2.1379469,
+        "latitude": 43.922403
+    },
+    "AMIENS": {
+        "longitude": 2.2956951,
+        "latitude": 49.8941708
+    },
+    "ANCENIS": {
+        "longitude": -1.1816088,
+        "latitude": 47.3648141
+    },
+    "ANDORRE - L'HOSPITALET": {
+        "longitude": 1.7980639,
+        "latitude": 42.587865
+    },
+    "ANGERS ST LAUD": {
+        "longitude": -0.5562093,
+        "latitude": 47.4643613
+    },
+    "ANGOULEME": {
+        "longitude": 0.1561947,
+        "latitude": 45.6484505
+    },
+    "ANNECY": {
+        "longitude": 6.1288847,
+        "latitude": 45.8992348
+    },
+    "ANNEMASSE": {
+        "longitude": 6.2341093,
+        "latitude": 46.1934005
+    },
+    "ANTIBES": {
+        "longitude": 7.1262071,
+        "latitude": 43.5812868
+    },
+    "ARCACHON": {
+        "longitude": -1.1700018,
+        "latitude": 44.6616428
+    },
+    "ARGELES SUR MER": {
+        "longitude": 3.0253613,
+        "latitude": 42.5476734
+    },
+    "ARGENTON SUR CREUSE": {
+        "longitude": 1.5191029,
+        "latitude": 46.5886822
+    },
+    "ARLES": {
+        "longitude": 4.6309653,
+        "latitude": 43.6776223
+    },
+    "ARRAS": {
+        "longitude": 2.7772211,
+        "latitude": 50.291048
+    },
+    "ARVANT": {
+        "longitude": 3.309158,
+        "latitude": 45.3642502
+    },
+    "ASSIER": {
+        "longitude": 1.8762866,
+        "latitude": 44.6753004
+    },
+    "AUBIN": {
+        "longitude": -0.4150674,
+        "latitude": 43.44004
+    },
+    "AUGSBURG HBF": {
+        "longitude": 10.886141681358104,
+        "latitude": 48.36584779569501
+    },
+    "AUMONT AUBRAC": {
+        "longitude": 3.2842235,
+        "latitude": 44.7226438
+    },
+    "AURAY": {
+        "longitude": -2.9833718,
+        "latitude": 47.6664485
+    },
+    "AURILLAC": {
+        "longitude": 2.4433101,
+        "latitude": 44.9285441
+    },
+    "AUTERIVE": {
+        "longitude": 1.4775095,
+        "latitude": 43.3524028
+    },
+    "AVIGNON CENTRE": {
+        "longitude": 4.8052782,
+        "latitude": 43.941688
+    },
+    "AVIGNON TGV": {
+        "longitude": 4.786072,
+        "latitude": 43.9217832
+    },
+    "AX LES THERMES": {
+        "longitude": 1.8379765,
+        "latitude": 42.7193597
+    },
+    "BADEN BADEN": {
+        "longitude": -2.9184744,
+        "latitude": 47.6199988
+    },
+    "BANASSAC LA CANOURGUE": {
+        "longitude": 3.1961981,
+        "latitude": 44.4475952
+    },
+    "BANYULS SUR MER": {
+        "longitude": 3.1275893,
+        "latitude": 42.4794084
+    },
+    "BAR LE DUC": {
+        "longitude": 5.1623805,
+        "latitude": 48.7712673
+    },
+    "BARCELONA SANTS": {
+        "longitude": 2.13992118514878,
+        "latitude": 41.37889499032571
+    },
+    "BASEL SBB": {
+        "longitude": 7.582391670185473,
+        "latitude": 47.54775479695034
+    },
+    "BAYONNE": {
+        "longitude": -1.4736657,
+        "latitude": 43.4945144
+    },
+    "BEAUNE": {
+        "longitude": 4.8380426,
+        "latitude": 47.0239064
+    },
+    "BEDARIEUX": {
+        "longitude": 3.1576143,
+        "latitude": 43.6155109
+    },
+    "BELFORT-MONTBELIARD TGV": {
+        "longitude": 6.8975497,
+        "latitude": 47.5858672
+    },
+    "BELLEGARDE": {
+        "longitude": 0.6244444,
+        "latitude": 43.4255556
+    },
+    "BESANCON - F COMTE TGV": {
+        "longitude": 6.0243622,
+        "latitude": 47.2380222
+    },
+    "BESANCON VIOTTE": {
+        "longitude": 6.0218662,
+        "latitude": 47.2470171
+    },
+    "BETHUNE": {
+        "longitude": 2.6402097,
+        "latitude": 50.5292608
+    },
+    "BEZIERS": {
+        "longitude": 3.2131307,
+        "latitude": 43.3426562
+    },
+    "BIARRITZ": {
+        "longitude": -1.5592776,
+        "latitude": 43.4832523
+    },
+    "BORDEAUX ST JEAN": {
+        "longitude": -0.5555868,
+        "latitude": 44.8256587
+    },
+    "BOULOGNE VILLE": {
+        "longitude": 1.6092707,
+        "latitude": 50.7147876
+    },
+    "BOURG EN BRESSE": {
+        "longitude": 5.2250324,
+        "latitude": 46.2051192
+    },
+    "BOURG ST MAURICE": {
+        "longitude": 6.7694313,
+        "latitude": 45.6185284
+    },
+    "BOURGES": {
+        "longitude": 2.399125,
+        "latitude": 47.0811658
+    },
+    "BRASSAC LES MINES STE FLORINE": {
+        "longitude": 3.330164,
+        "latitude": 45.4140748
+    },
+    "BREST": {
+        "longitude": -4.4860088,
+        "latitude": 48.3905283
+    },
+    "BRETENOUX BIARS": {
+        "longitude": 1.8442422,
+        "latitude": 44.9275487
+    },
+    "BRIANCON": {
+        "longitude": 6.6436313,
+        "latitude": 44.8984037
+    },
+    "BRIVE LA GAILLARDE": {
+        "longitude": 1.5332389,
+        "latitude": 45.1584982
+    },
+    "BRUXELLES MIDI BRUSSEL ZUID": {
+        "longitude": 4.3332213,
+        "latitude": 50.8352359
+    },
+    "CAHORS": {
+        "longitude": 1.4364999,
+        "latitude": 44.4495
+    },
+    "CALAIS FRETHUN": {
+        "longitude": 1.8114399,
+        "latitude": 50.9019122
+    },
+    "CALAIS VILLE": {
+        "longitude": 1.8503652,
+        "latitude": 50.9533777
+    },
+    "CAMPAGNAC ST GENIEZ": {
+        "longitude": 3.0663959,
+        "latitude": 44.4219997
+    },
+    "CANNES": {
+        "longitude": 7.0134418,
+        "latitude": 43.5515198
+    },
+    "CAPDENAC": {
+        "longitude": 2.0696065,
+        "latitude": 44.5808234
+    },
+    "CARCASSONNE": {
+        "longitude": 2.3491069,
+        "latitude": 43.2130358
+    },
+    "CARMAUX": {
+        "longitude": 2.1583033,
+        "latitude": 44.0496296
+    },
+    "CAUSSADE TARN ET GARONNE": {
+        "longitude": 1.5365375,
+        "latitude": 44.1608142
+    },
+    "CEILHES ROQUEREDONDE": {
+        "longitude": 3.1551959,
+        "latitude": 43.8123578
+    },
+    "CERBERE": {
+        "longitude": 3.1646952,
+        "latitude": 42.4412951
+    },
+    "CHALON SUR SAONE": {
+        "longitude": 4.8529605,
+        "latitude": 46.7888997
+    },
+    "CHALONS EN CHAMPAGNE": {
+        "longitude": 4.3628851,
+        "latitude": 48.9566218
+    },
+    "CHAMBERY CHALLES LES EAUX": {
+        "longitude": 5.9198702,
+        "latitude": 45.5714337
+    },
+    "CHAMPAGNE-ARDENNE": {
+        "longitude": 4.207909950341709,
+        "latitude": 48.873065999999994
+    },
+    "CHARLEVILLE MEZIERES": {
+        "longitude": 4.7206939,
+        "latitude": 49.7735712
+    },
+    "CHATEAUROUX": {
+        "longitude": 1.6770956,
+        "latitude": 46.8203785
+    },
+    "CHATELLERAULT": {
+        "longitude": 0.545812,
+        "latitude": 46.8180047
+    },
+    "CHORGES": {
+        "longitude": 6.2754561,
+        "latitude": 44.5450837
+    },
+    "CLERMONT FERRAND": {
+        "longitude": 3.0819427,
+        "latitude": 45.7774551
+    },
+    "CLUSES  74": {
+        "longitude": 6.5804218,
+        "latitude": 46.0603171
+    },
+    "COLLIOURE": {
+        "longitude": 3.0831554,
+        "latitude": 42.52505
+    },
+    "COLMAR": {
+        "longitude": 7.3579641,
+        "latitude": 48.0777517
+    },
+    "CRANSAC": {
+        "longitude": 2.2810378,
+        "latitude": 44.5247252
+    },
+    "CREST": {
+        "longitude": 5.0236641,
+        "latitude": 44.7282675
+    },
+    "CROIX WASQUEHAL": {
+        "longitude": 3.138025604000001,
+        "latitude": 50.6785536
+    },
+    "DAX": {
+        "longitude": -1.0518771,
+        "latitude": 43.7084065
+    },
+    "DIE": {
+        "longitude": 5.3689136,
+        "latitude": 44.7533712
+    },
+    "DIJON VILLE": {
+        "longitude": 5.0272536,
+        "latitude": 47.3230453
+    },
+    "DOL DE BRETAGNE": {
+        "longitude": -1.754257,
+        "latitude": 48.5498295
+    },
+    "DOLE VILLE": {
+        "longitude": 4.7848097,
+        "latitude": 46.9219029
+    },
+    "DOUAI": {
+        "longitude": 3.0804641,
+        "latitude": 50.3675677
+    },
+    "DUNKERQUE": {
+        "longitude": 2.3772525,
+        "latitude": 51.0347708
+    },
+    "ELNE": {
+        "longitude": 2.9705605,
+        "latitude": 42.6015016
+    },
+    "EMBRUN": {
+        "longitude": 6.4958189,
+        "latitude": 44.5641764
+    },
+    "EPINAL": {
+        "longitude": 6.4503643,
+        "latitude": 48.1747684
+    },
+    "ETAPLES LE TOUQUET": {
+        "longitude": 1.6423717,
+        "latitude": 50.5168803
+    },
+    "EVIAN LES BAINS": {
+        "longitude": 6.5897931,
+        "latitude": 46.400979
+    },
+    "FACTURE BIGANOS": {
+        "longitude": -0.966178,
+        "latitude": 44.6372409
+    },
+    "FIGEAC": {
+        "longitude": 2.0324321,
+        "latitude": 44.6092335
+    },
+    "FIGUERES VILA TGV": {
+        "longitude": 2.9438115653675743,
+        "latitude": 42.264920276224665
+    },
+    "FOIX": {
+        "longitude": 1.6053807,
+        "latitude": 42.9638998
+    },
+    "FORBACH": {
+        "longitude": 6.8958562,
+        "latitude": 49.1862822
+    },
+    "FRANKFURT MAIN HBF": {
+        "longitude": 8.663748063710011,
+        "latitude": 50.10714985115794
+    },
+    "FRASNE": {
+        "longitude": 6.1617717,
+        "latitude": 46.8570466
+    },
+    "FREIBURG BREISGAU HBF": {
+        "longitude": 7.840391416378432,
+        "latitude": 47.99665857435216
+    },
+    "FUTUROSCOPE": {
+        "longitude": 0.3674810487140349,
+        "latitude": 46.66815525
+    },
+    "GAP": {
+        "longitude": 6.0820639,
+        "latitude": 44.5612032
+    },
+    "GENEVE": {
+        "longitude": 4.2816856,
+        "latitude": 44.6222205
+    },
+    "GIRONA": {
+        "longitude": 5.3784899,
+        "latitude": 43.2655293
+    },
+    "GOURDON": {
+        "longitude": 4.4461818,
+        "latitude": 46.6414367
+    },
+    "GRAMAT": {
+        "longitude": 1.723394,
+        "latitude": 44.7789948
+    },
+    "GRENOBLE": {
+        "longitude": 5.7357819,
+        "latitude": 45.1875602
+    },
+    "GUINGAMP": {
+        "longitude": -3.1502007,
+        "latitude": 48.5618483
+    },
+    "HAZEBROUCK": {
+        "longitude": 2.5360331,
+        "latitude": 50.7226113
+    },
+    "HENDAYE": {
+        "longitude": -1.7616499,
+        "latitude": 43.3641518
+    },
+    "HYERES": {
+        "longitude": 6.1301614,
+        "latitude": 43.1202573
+    },
+    "ISSOIRE": {
+        "longitude": 3.2502213,
+        "latitude": 45.5432973
+    },
+    "ISSOUDUN": {
+        "longitude": 1.9889131,
+        "latitude": 46.9477826
+    },
+    "JONZAC": {
+        "longitude": -0.4320984,
+        "latitude": 45.4454469
+    },
+    "KAISERSLAUTERN HBF": {
+        "longitude": 7.768605586147184,
+        "latitude": 49.43628230496324
+    },
+    "KARLSRUHE HBF": {
+        "longitude": 8.400988150895186,
+        "latitude": 48.994023852304444
+    },
+    "L'ARGENTIERE LES ECRINS   (05)": {
+        "longitude": 6.556416207065503,
+        "latitude": 44.79096065
+    },
+    "LA BAULE ESCOUBLAC": {
+        "longitude": -2.3951595,
+        "latitude": 47.2843726
+    },
+    "LA ROCHE SUR YON": {
+        "longitude": -1.4269698,
+        "latitude": 46.6705431
+    },
+    "LA ROCHELLE VILLE": {
+        "longitude": -1.151336169850128,
+        "latitude": 46.1595035
+    },
+    "LA SOUTERRAINE": {
+        "longitude": 1.4861387,
+        "latitude": 46.2383347
+    },
+    "LA TESTE": {
+        "longitude": -1.1429337,
+        "latitude": 44.6369726
+    },
+    "LAHR SCHWARZW": {
+        "longitude": 7.835694176361985,
+        "latitude": 48.341057045408476
+    },
+    "LAMBALLE": {
+        "longitude": -2.516502292079859,
+        "latitude": 48.46244615
+    },
+    "LANDERNEAU": {
+        "longitude": -4.2557901,
+        "latitude": 48.4514803
+    },
+    "LANDRY": {
+        "longitude": 6.73991,
+        "latitude": 45.57
+    },
+    "LANNEMEZAN": {
+        "longitude": 0.384241,
+        "latitude": 43.1252298
+    },
+    "LANNION": {
+        "longitude": -3.4587994,
+        "latitude": 48.7322183
+    },
+    "LAROQUEBROU": {
+        "longitude": 2.1911658,
+        "latitude": 44.967739
+    },
+    "LATOUR DE CAROL ENVEITG": {
+        "longitude": 1.9044726793839655,
+        "latitude": 42.45905105
+    },
+    "LAUSANNE": {
+        "longitude": 1.1821018,
+        "latitude": 47.0433932
+    },
+    "LAVAL": {
+        "longitude": -0.7734022,
+        "latitude": 48.0706687
+    },
+    "LE BOUSQUET D'ORB": {
+        "longitude": 3.164829,
+        "latitude": 43.6946849
+    },
+    "LE CREUSOT MONTCEAU MONTCHANIN": {
+        "longitude": 4.4995015,
+        "latitude": 46.7653149
+    },
+    "LE CROISIC": {
+        "longitude": -2.5094404,
+        "latitude": 47.2933971
+    },
+    "LE HAVRE": {
+        "longitude": 0.1079732,
+        "latitude": 49.4938975
+    },
+    "LE MANS": {
+        "longitude": 0.1967849,
+        "latitude": 48.0073849
+    },
+    "LE MONASTIER": {
+        "longitude": 4.3460693,
+        "latitude": 45.0324373
+    },
+    "LE POULIGUEN": {
+        "longitude": -2.4310663,
+        "latitude": 47.2714307
+    },
+    "LENS": {
+        "longitude": 2.8319805,
+        "latitude": 50.4291723
+    },
+    "LES ARCS DRAGUIGNAN": {
+        "longitude": 6.4824405,
+        "latitude": 43.4556388
+    },
+    "LES AUBRAIS ORLEANS": {
+        "longitude": 1.906482,
+        "latitude": 47.9267428
+    },
+    "LES CABANNES": {
+        "longitude": 1.94063,
+        "latitude": 44.0664
+    },
+    "LES SABLES D'OLONNE": {
+        "longitude": -1.7925663248751424,
+        "latitude": 46.5001552
+    },
+    "LIBOURNE": {
+        "longitude": -0.2427217,
+        "latitude": 44.9133742
+    },
+    "LILLE (intramuros)": {
+        "longitude": 3.0635282,
+        "latitude": 50.6365654
+    },
+    "LIMOGES BENEDICTINS": {
+        "longitude": 1.267972,
+        "latitude": 45.8363873
+    },
+    "LORIENT": {
+        "longitude": -3.3660907,
+        "latitude": 47.7477336
+    },
+    "LORRAINE TGV": {
+        "longitude": 6.1697946,
+        "latitude": 48.9477428
+    },
+    "LOURDES": {
+        "longitude": -0.0464975,
+        "latitude": 43.0940904
+    },
+    "LUC EN DIOIS": {
+        "longitude": 5.4517754,
+        "latitude": 44.6152
+    },
+    "LUCON": {
+        "longitude": -1.1645595,
+        "latitude": 46.4555953
+    },
+    "LUNEVILLE": {
+        "longitude": 6.4919563,
+        "latitude": 48.5916164
+    },
+    "LUXEMBOURG": {
+        "longitude": 2.339808,
+        "latitude": 48.8454719
+    },
+    "LUZENAC GARANOU": {
+        "longitude": 1.7530942,
+        "latitude": 42.7644232
+    },
+    "LYON (intramuros)": {
+        "longitude": 4.8320114,
+        "latitude": 45.7578137
+    },
+    "LYON-SAINT EXUPERY TGV": {
+        "longitude": 5.076022747098214,
+        "latitude": 45.7209979
+    },
+    "MACON LOCHE TGV": {
+        "longitude": 4.7788492,
+        "latitude": 46.2829122
+    },
+    "MACON VILLE": {
+        "longitude": 4.8250128,
+        "latitude": 46.3027953
+    },
+    "MAGALAS": {
+        "longitude": 3.2221621,
+        "latitude": 43.4724204
+    },
+    "MANNHEIM HBF": {
+        "longitude": 8.469717442820546,
+        "latitude": 49.47976108118349
+    },
+    "MANTES LA JOLIE": {
+        "longitude": 1.7140683,
+        "latitude": 48.9891971
+    },
+    "MARMANDE": {
+        "longitude": 0.164274,
+        "latitude": 44.5007939
+    },
+    "MARNE LA VALLEE CHESSY": {
+        "longitude": 2.782803052345335,
+        "latitude": 48.870263550000004
+    },
+    "MARSEILLE BLANCARDE": {
+        "longitude": 5.4071759,
+        "latitude": 43.29642
+    },
+    "MARSEILLE ST CHARLES": {
+        "longitude": 5.3811927,
+        "latitude": 43.3032635
+    },
+    "MARVEJOLS": {
+        "longitude": 3.2901135,
+        "latitude": 44.5532621
+    },
+    "MASSIAC BLESLE": {
+        "longitude": 3.1963372,
+        "latitude": 45.2537642
+    },
+    "MASSY PALAISEAU": {
+        "longitude": 2.2582896,
+        "latitude": 48.7259856
+    },
+    "MASSY TGV": {
+        "longitude": 2.2613547612844402,
+        "latitude": 48.725828050000004
+    },
+    "MERENS LES VALS": {
+        "longitude": 1.8371515,
+        "latitude": 42.6586911
+    },
+    "METZ VILLE": {
+        "longitude": 6.1743816,
+        "latitude": 49.1160688
+    },
+    "MEUSE TGV": {
+        "longitude": 5.2709098,
+        "latitude": 48.9787155
+    },
+    "MILANO P GARIBALDI": {
+        "longitude": 9.1945741,
+        "latitude": 45.4762066
+    },
+    "MILLAU": {
+        "longitude": 3.0777594,
+        "latitude": 44.1006693
+    },
+    "MIRAMAS": {
+        "longitude": 5.0025809,
+        "latitude": 43.582733
+    },
+    "MONTAUBAN VILLE BOURBON": {
+        "longitude": 1.3410576,
+        "latitude": 44.0141948
+    },
+    "MONTBARD": {
+        "longitude": 4.3373194,
+        "latitude": 47.6241674
+    },
+    "MONTDAUPHIN GUILLESTRE": {
+        "longitude": 6.6156317843928285,
+        "latitude": 44.6746829
+    },
+    "MONTELIMAR GARE SNCF": {
+        "longitude": 4.7452951,
+        "latitude": 44.5596297
+    },
+    "MONTPELLIER SAINT-ROCH": {
+        "longitude": 3.8803219,
+        "latitude": 43.6042456
+    },
+    "MONTPELLIER SUD DE FRANCE": {
+        "longitude": 3.9239637,
+        "latitude": 43.595115
+    },
+    "MONTREJEAU GOURDAN POLIGNAN": {
+        "longitude": 0.5734995,
+        "latitude": 43.0780671
+    },
+    "MORLAIX": {
+        "longitude": -3.8331972,
+        "latitude": 48.5824932
+    },
+    "MOUCHARD": {
+        "longitude": 5.7975847,
+        "latitude": 46.9752018
+    },
+    "MOULINS SUR ALLIER": {
+        "longitude": 3.3389447,
+        "latitude": 46.5613152
+    },
+    "MOUTIERS SALINS BRIDES L BAINS": {
+        "longitude": 6.531189069953991,
+        "latitude": 45.4865526847153
+    },
+    "MUENCHEN HBF": {
+        "longitude": 11.559981537907541,
+        "latitude": 48.140278038843626
+    },
+    "MULHOUSE VILLE": {
+        "longitude": 7.342934,
+        "latitude": 47.7417759
+    },
+    "NANCY": {
+        "longitude": 6.1834097,
+        "latitude": 48.6937223
+    },
+    "NANTES": {
+        "longitude": -1.5541362,
+        "latitude": 47.2186371
+    },
+    "NARBONNE": {
+        "longitude": 3.0041906,
+        "latitude": 43.1837757
+    },
+    "NAUCELLE": {
+        "longitude": 2.3418494,
+        "latitude": 44.1979349
+    },
+    "NEUSSARGUES": {
+        "longitude": 2.9791705,
+        "latitude": 45.1253278
+    },
+    "NEVERS": {
+        "longitude": 3.1577203,
+        "latitude": 46.9876601
+    },
+    "NICE VILLE": {
+        "longitude": 7.261736,
+        "latitude": 43.7048809
+    },
+    "NIMES": {
+        "longitude": 4.3600687,
+        "latitude": 43.8374249
+    },
+    "NIMES PONT DU GARD": {
+        "longitude": 4.5076357,
+        "latitude": 43.8166628
+    },
+    "NIORT": {
+        "longitude": -0.4649403,
+        "latitude": 46.3241132
+    },
+    "NURIEUX": {
+        "longitude": 5.5236729,
+        "latitude": 46.1827436
+    },
+    "OFFENBOURG/OFFENBURG": {
+        "longitude": 7.9469667647951585,
+        "latitude": 48.47667127382115
+    },
+    "ORANGE": {
+        "longitude": 4.8078783,
+        "latitude": 44.1371311
+    },
+    "ORTHEZ": {
+        "longitude": -0.7738363,
+        "latitude": 43.4874963
+    },
+    "OULX CESANA CLAV SESTRIERE": {
+        "longitude": 6.831489674831094,
+        "latitude": 45.038750628322305
+    },
+    "PAMIERS": {
+        "longitude": 1.6082177,
+        "latitude": 43.1147515
+    },
+    "PARIS (intramuros)": {
+        "longitude": 2.3483915,
+        "latitude": 48.8534951
+    },
+    "PAU": {
+        "longitude": -0.3685668,
+        "latitude": 43.2957547
+    },
+    "PERPIGNAN": {
+        "longitude": 2.8953121,
+        "latitude": 42.6985304
+    },
+    "PLOUARET TREGOR": {
+        "longitude": -3.4667489,
+        "latitude": 48.6062088
+    },
+    "POITIERS": {
+        "longitude": 0.340196,
+        "latitude": 46.5802596
+    },
+    "PORNICHET": {
+        "longitude": -2.3364238,
+        "latitude": 47.2613293
+    },
+    "PORT VENDRES VILLE": {
+        "longitude": 3.1108478,
+        "latitude": 42.5129381
+    },
+    "PORTE PUYMORENS": {
+        "longitude": 1.833462,
+        "latitude": 42.5488878
+    },
+    "QUIMPER": {
+        "longitude": -4.1024782,
+        "latitude": 47.9960325
+    },
+    "QUIMPERLE": {
+        "longitude": -3.5505644,
+        "latitude": 47.8692882
+    },
+    "RANG DU FLIERS VERTON": {
+        "longitude": 1.6481625,
+        "latitude": 50.4157503
+    },
+    "REDON": {
+        "longitude": -2.0842143,
+        "latitude": 47.6510682
+    },
+    "REIMS": {
+        "longitude": 4.031926,
+        "latitude": 49.2577886
+    },
+    "REMIREMONT": {
+        "longitude": 6.5912615,
+        "latitude": 48.0158951
+    },
+    "RENNES": {
+        "longitude": -1.6800198,
+        "latitude": 48.1113387
+    },
+    "RETHEL": {
+        "longitude": 4.3666467,
+        "latitude": 49.5091447
+    },
+    "RINGSHEIM/EU-PARK": {
+        "longitude": 7.772789756550372,
+        "latitude": 48.24883864200717
+    },
+    "RIOM CHATEL GUYON": {
+        "longitude": 3.1205278406354524,
+        "latitude": 45.890009500000005
+    },
+    "ROANNE": {
+        "longitude": 4.0729178,
+        "latitude": 46.0345572
+    },
+    "ROCAMADOUR PADIRAC": {
+        "longitude": 1.6571848,
+        "latitude": 44.8183148
+    },
+    "ROCHEFORT": {
+        "longitude": -0.9616399,
+        "latitude": 45.9366592
+    },
+    "RODEZ": {
+        "longitude": 2.5728493,
+        "latitude": 44.3511408
+    },
+    "ROSPORDEN": {
+        "longitude": -3.8278459,
+        "latitude": 47.9592684
+    },
+    "ROUBAIX": {
+        "longitude": 3.1741734,
+        "latitude": 50.6915893
+    },
+    "ROUEN RIVE DROITE": {
+        "longitude": 1.0942235,
+        "latitude": 49.4492443
+    },
+    "SABLE SUR SARTHE": {
+        "longitude": -0.3352048,
+        "latitude": 47.8400712
+    },
+    "SAINTES": {
+        "longitude": -0.6300671,
+        "latitude": 45.7460663
+    },
+    "SALLANCHES COMBLOUX MEGEVE": {
+        "longitude": 6.6365349,
+        "latitude": 45.9356854
+    },
+    "SARREBOURG": {
+        "longitude": 7.0557352,
+        "latitude": 48.734239
+    },
+    "SARREBRUCK/SAARBRUECKEN": {
+        "longitude": 6.986128096159231,
+        "latitude": 49.23226465
+    },
+    "SAUMUR": {
+        "longitude": -0.0785177,
+        "latitude": 47.2596224
+    },
+    "SAVERDUN": {
+        "longitude": 1.5754613,
+        "latitude": 43.2336968
+    },
+    "SAVERNE": {
+        "longitude": 7.3625953,
+        "latitude": 48.7419909
+    },
+    "SEDAN": {
+        "longitude": 4.9433409,
+        "latitude": 49.7033759
+    },
+    "SELESTAT": {
+        "longitude": 7.454217,
+        "latitude": 48.2594396
+    },
+    "SETE": {
+        "longitude": 3.6959771,
+        "latitude": 43.4014434
+    },
+    "SEVERAC LE CHATEAU": {
+        "longitude": 3.0694018,
+        "latitude": 44.3229477
+    },
+    "SOUILLAC": {
+        "longitude": 1.46943,
+        "latitude": 44.8980172
+    },
+    "ST AVRE LA CHAMBRE": {
+        "longitude": 6.301744,
+        "latitude": 45.3535569
+    },
+    "ST BRIEUC": {
+        "longitude": -2.7603283,
+        "latitude": 48.5141134
+    },
+    "ST CHELY D'APCHER": {
+        "longitude": 3.2757824,
+        "latitude": 44.8011363
+    },
+    "ST CHRISTOPHE": {
+        "longitude": 6.1763805,
+        "latitude": 44.9576485
+    },
+    "ST DENIS PRES MARTEL": {
+        "longitude": 1.6661916,
+        "latitude": 44.94597
+    },
+    "ST DIE DES VOSGES": {
+        "longitude": 6.9477708,
+        "latitude": 48.2873153
+    },
+    "ST ETIENNE CHATEAUCREUX": {
+        "longitude": 4.3996073,
+        "latitude": 45.4436149
+    },
+    "ST FLOUR CHAUDES AIGUES": {
+        "longitude": 3.1062173,
+        "latitude": 45.0350199
+    },
+    "ST GAUDENS": {
+        "longitude": 0.7247218,
+        "latitude": 43.1077682
+    },
+    "ST GEORGES DE LUZENCON": {
+        "longitude": 2.9855424,
+        "latitude": 44.063084
+    },
+    "ST GERMAIN DES FOSSES": {
+        "longitude": 3.4320562,
+        "latitude": 46.2067884
+    },
+    "ST GERVAIS LES BAINS LE FAYET": {
+        "longitude": 6.70144050747177,
+        "latitude": 45.9064444
+    },
+    "ST JEAN DE LUZ CIBOURE": {
+        "longitude": -1.6611208,
+        "latitude": 43.3858011
+    },
+    "ST JEAN DE MAURIENNE ARVAN": {
+        "longitude": 6.3544477,
+        "latitude": 45.2779356
+    },
+    "ST MAIXENT DEUX SEVRES": {
+        "longitude": -0.2012945182112913,
+        "latitude": 46.40644955
+    },
+    "ST MALO": {
+        "longitude": -2.0260409,
+        "latitude": 48.649518
+    },
+    "ST MICHEL VALLOIRE": {
+        "longitude": 6.471616,
+        "latitude": 45.2169016
+    },
+    "ST NAZAIRE": {
+        "longitude": -2.2138905,
+        "latitude": 47.2733517
+    },
+    "ST PIERRE DES CORPS": {
+        "longitude": 0.7189761,
+        "latitude": 47.3898152
+    },
+    "ST QUENTIN": {
+        "longitude": 3.2876843,
+        "latitude": 49.8465253
+    },
+    "ST RAPHAEL VALESCURE": {
+        "longitude": 6.7702261,
+        "latitude": 43.4227841
+    },
+    "ST ROME DE CERNON": {
+        "longitude": 2.9643361,
+        "latitude": 44.0118233
+    },
+    "STRASBOURG": {
+        "longitude": 7.7507127,
+        "latitude": 48.584614
+    },
+    "STUTTGART HBF": {
+        "longitude": 9.182859726114692,
+        "latitude": 48.783263811683256
+    },
+    "SURGERES": {
+        "longitude": -0.7511152,
+        "latitude": 46.1052715
+    },
+    "TARASCON SUR ARIEGE": {
+        "longitude": 1.6067586,
+        "latitude": 42.8458016
+    },
+    "TARBES": {
+        "longitude": 0.0781021,
+        "latitude": 43.232858
+    },
+    "TBD": {
+        "longitude": 5.893123819359806,
+        "latitude": 45.62404022595275
+    },
+    "TGV HAUTE PICARDIE": {
+        "longitude": 2.831846,
+        "latitude": 49.8592374
+    },
+    "THIONVILLE": {
+        "longitude": 6.1675872,
+        "latitude": 49.3579272
+    },
+    "THONON LES BAINS": {
+        "longitude": 6.4779448,
+        "latitude": 46.3731303
+    },
+    "TORINO PORTA SUSA": {
+        "longitude": 7.666658998447691,
+        "latitude": 45.071994211198025
+    },
+    "TOULON": {
+        "longitude": 5.9304919,
+        "latitude": 43.1257311
+    },
+    "TOULOUSE MATABIAU": {
+        "longitude": 1.4542101,
+        "latitude": 43.6114306
+    },
+    "TOURCOING": {
+        "longitude": 3.1605714,
+        "latitude": 50.7235038
+    },
+    "TOURNEMIRE ROQUEFORT": {
+        "longitude": 3.0166443,
+        "latitude": 43.970018
+    },
+    "TOURS": {
+        "longitude": 0.6889268,
+        "latitude": 47.3900474
+    },
+    "ULM HBF": {
+        "longitude": 9.983440827601873,
+        "latitude": 48.39935673646418
+    },
+    "UZERCHE": {
+        "longitude": 1.5637278,
+        "latitude": 45.4243315
+    },
+    "VALENCE TGV RHONE-ALPES SUD": {
+        "longitude": 4.9789724,
+        "latitude": 44.992409
+    },
+    "VALENCE VILLE": {
+        "longitude": 4.89355,
+        "latitude": 44.927933
+    },
+    "VALENCIENNES": {
+        "longitude": 3.5234846,
+        "latitude": 50.3579317
+    },
+    "VALLORBE": {
+        "longitude": 6.3735785,
+        "latitude": 46.7410778
+    },
+    "VANNES": {
+        "longitude": -2.7599079,
+        "latitude": 47.6586772
+    },
+    "VENDOME VILLIERS SUR LOIR": {
+        "longitude": 1.0205092,
+        "latitude": 47.822059
+    },
+    "VERSAILLES CHANTIERS": {
+        "longitude": 2.1355157,
+        "latitude": 48.7954702
+    },
+    "VEYNES DEVOLUY": {
+        "longitude": 5.8159141,
+        "latitude": 44.531909
+    },
+    "VICHY": {
+        "longitude": 3.4203712,
+        "latitude": 46.1239268
+    },
+    "VIERZON VILLE": {
+        "longitude": 2.0599631245941827,
+        "latitude": 47.2265668
+    },
+    "VITRE": {
+        "longitude": -1.214331,
+        "latitude": 48.1244503
+    },
+    "VITRY LE FRANCOIS GARE": {
+        "longitude": 4.5876081,
+        "latitude": 48.7179105
+    },
+    "VIVIEZ DECAZEVILLE": {
+        "longitude": 2.21825838715652,
+        "latitude": 44.5555692
+    },
+    "ZUERICH HB": {
+        "longitude": 8.540072181271903,
+        "latitude": 47.378263904895825
+    }
+}

@@ -1,0 +1,234 @@
+/* style_voyageurmax.css */
+body {
+    background-color: #121f3d; /* Couleur de fond bleu marine */
+    color: #ffffff; /* Texte en blanc pour contraster avec le fond sombre */
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+/*
+###############################################
+################ PARTIE Header ################
+###############################################
+*/
+
+.header {
+    background-color: #121f3d; /* En-tête avec la même couleur de fond */
+    padding: 0px 0;
+    text-align: center; /* Centre le contenu textuel et les éléments inline ou inline-block à l'intérieur */
+}
+
+.logo {
+    display: block; /* Rend l'image traitée comme un bloc */
+    margin: 0 auto; /* Centrer horizontalement le logo dans le header */
+    width: 200px; /* Remplacez 200px par la largeur souhaitée pour votre logo */
+    height: auto; /* Permet de conserver le ratio de l'image */
+}
+
+
+/*
+###############################################
+############## PARTIE Banderolle ##############
+###############################################
+*/
+.feature-image-section {
+    position: relative;
+    background-image: url('../Images/Banderolle.webp');
+    background-size: cover;
+    background-position: center;
+    height: 430px; /* Ou la hauteur que vous souhaitez */
+    background-position: 50% 62%;
+}
+
+.feature-image-section::after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5); /* Changez l'opacité ici */
+    z-index: 1; /* Assurez-vous que ce soit derrière le contenu */
+}
+
+.feature-content {
+    position: relative;
+    top: 40%;
+    left: 7%; /* Décalez à gauche en ajustant cette valeur */
+    transform: translateY(-50%); /* Changez translate(-50%, -50%) à translateY(-50%) pour affecter seulement l'axe Y */
+    color: #bebebe;
+    text-align: left; /* Aligne le texte à gauche */
+    width: 50%; /* Ajustez la largeur selon vos besoins */
+    z-index: 2; /* Assurez-vous que le texte reste au-dessus de la couche d'opacité */
+}
+
+.feature-content h2 {
+    font-size: 5rem; /* Augmentez la taille de la police comme vous le souhaitez */
+    margin-bottom: 0rem; /* Ajustez la marge en bas si nécessaire */
+    color: #D3D3D3;
+    font-family: 'Arial', sans-serif; /* Exemple de changement de la famille de polices */
+}
+
+.feature-content p {
+    font-size: 3rem; /* Augmentez la taille de la police comme vous le souhaitez */
+    font-family: 'Arial', sans-serif; /* Exemple de changement de la famille de polices */
+}
+
+
+
+
+
+
+
+
+/*
+###############################################
+############## PARTIE Formulaire ##############
+###############################################
+*/
+
+/* Styliser le label */
+label[for="ville_depart"] {
+    color: #ffffff; /* Couleur du texte du label */
+    font-weight: bold; /* Rendre le texte du label en gras */
+    margin-bottom: 8px; /* Espace sous le label */
+    display: block; /* Affichage en block pour forcer un retour à la ligne */
+}
+
+/* Styliser l'input de la ville de départ */
+#ville_depart {
+    border: 2px solid #4A90E2; /* Bordure bleue */
+    border-radius: 4px; /* Bordures arrondies */
+    padding: 8px 12px; /* Padding intérieur pour augmenter la zone de texte */
+    font-size: 16px; /* Taille de la police */
+    color: #ffffff; /* Couleur du texte saisi */
+    width: 100%; /* Utiliser toute la largeur disponible */
+    box-sizing: border-box; /* S'assurer que padding et bordure sont inclus dans la largeur */
+}
+
+#ville_depart::placeholder {
+    color: #999; /* Couleur du texte du placeholder */
+    font-style: italic; /* Style du texte du placeholder */
+}
+
+/* Styliser le bouton de soumission */
+button[type="submit"] {
+    background-color: #4A90E2; /* Couleur de fond du bouton */
+    color: white; /* Couleur du texte du bouton */
+    border: none; /* Pas de bordure */
+    border-radius: 4px; /* Bordures arrondies */
+    padding: 10px 15px; /* Padding intérieur */
+    font-size: 18px; /* Taille de la police */
+    cursor: pointer; /* Afficher le curseur en pointeur */
+    margin-top: 20px; /* Espacer le bouton du reste du formulaire */
+}
+
+button[type="submit"]:hover {
+    background-color: #357ABD; /* Assombrir le bouton au survol */
+}
+
+.form-group {
+    position: relative; /* Position relative pour le conteneur de l'input */
+}
+
+.suggestions-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    border: 1px solid #ccc;
+    position: absolute; /* Position absolue pour la liste de suggestions */
+    width: 100%; /* Largeur de la liste égale à celle de l'input */
+    box-sizing: border-box; /* Pour inclure la bordure dans la largeur */
+    z-index: 1000; /* Assurez-vous que la liste est au-dessus des autres éléments */
+    max-height: 200px; /* Hauteur ajustée pour augmenter la longueur de la fenêtre */
+    overflow-y: auto; /* Permettre le défilement vertical */
+    background: #121f3d; /* Fond blanc pour les suggestions */
+    scrollbar-width: none; /* Pour Firefox */
+}
+
+#liste_villes {
+    display: none;
+}
+
+
+.suggestions-list::-webkit-scrollbar {
+    display: none; /* Pour les navigateurs Webkit comme Chrome ou Safari */
+}
+
+.suggestions-list li {
+    cursor: pointer;
+    padding: 5px;
+    border-bottom: 1px solid #ddd;
+}
+
+.suggestions-list li:hover {
+    background-color: #617dbd; /* Couleur de fond lors du survol */
+    color: white; /* Couleur du texte lors du survol */
+}
+
+
+/* Style des champs de saisie */
+input[type=text], input[type=date] {
+    padding: 10px 15px;
+    margin-right: 10px; /* Espace entre les éléments */
+    border: 2px solid #555; /* Couleur de bordure des champs */
+    background-color: #333; /* Couleur de fond des champs */
+    color: #fff; /* Couleur de texte des champs */
+    border-radius: 5px; /* Coins arrondis des champs */
+}
+
+
+/* Ajustement pour la partie facultative */
+.facultatif {
+    color: grey; /* ou utilisez une couleur hexadécimale spécifique comme #808080 */
+    font-style: italic;
+}
+/* Style global pour les formulaires (si nécessaire) */
+form {
+    margin-top: 20px;
+    background-color: transparent; /* Fond transparent pour le formulaire */
+    border: none; /* Pas de bordure pour le formulaire */
+    box-shadow: none; /* Pas d'ombre pour le formulaire */
+    text-align: center; /* Centrer le texte dans le formulaire */
+}
+
+#ville_depart {
+    margin-bottom: 20px; /* Ajustez cette valeur au besoin */
+}
+
+label  {
+    display: block;
+    text-align: 50%;
+    margin-bottom: 5px; /* Crée de l'espace entre le label et le champ de saisie */
+}
+
+.et-span {
+    margin-right: 5px; /* Espacement à droite du mot 'et' */
+    margin-left: 5px; /* Espacement à gauche du mot 'et' */
+}
+
+.date-group input[type=date] {
+    margin-right: 5px; /* Espacement à droite de la première date */
+    /* Autres styles */
+}
+
+.search-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centrer les enfants en flex sur l'axe transversal */
+    justify-content: center; /* Centrer les enfants en flex sur l'axe principal */
+    margin: auto;
+    width: 80%; /* Ajustez ceci en fonction de la largeur souhaitée du formulaire */
+}
+
+
+
+
+
+
+
+
+
+
+

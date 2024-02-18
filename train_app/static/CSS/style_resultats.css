@@ -1,0 +1,99 @@
+/* style_resultats.css */
+
+
+.header {
+    background-color: #0A1F44; /* En-tête avec la même couleur de fond */
+    padding: 0px 0;
+    text-align: center; /* Centre le contenu textuel et les éléments inline ou inline-block à l'intérieur */
+}
+
+.logo {
+    display: block; /* Rend l'image traitée comme un bloc */
+    margin: 0 auto; /* Centrer horizontalement le logo dans le header */
+    width: 200px; /* Remplacez 200px par la largeur souhaitée pour votre logo */
+    height: auto; /* Permet de conserver le ratio de l'image */
+}
+
+
+
+
+
+/* Appliquez ce style à votre fichier CSS */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #0A1F44; /* Bleu marine de l'arrière-plan */
+    color: #ffffff; /* Texte blanc */
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 20px;
+}
+
+.liste-villes {
+    background-color: #121f3d; /* Fond plus foncé pour la liste */
+    border-radius: 10px;
+    margin-right: 20px; /* Espace entre la liste et la carte */
+    padding: 30px; /* Plus d'espace intérieur */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); /* Ombre portée */
+    max-width: 400px; /* Augmenter la largeur maximale de la liste */
+    overflow-y: auto; /* Pour le défilement si la liste est trop longue */
+    font-size: 1.1em; /* Augmenter la taille de la police */
+}
+
+.carte-container {
+    flex-grow: 1; /* Permet à la carte de remplir l'espace restant */
+    border-radius: 10px;
+    overflow: hidden; /* Pour maintenir les coins arrondis */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); /* Ombre portée */
+}
+
+.liste-villes h1 {
+    color: #FFC20E; /* Couleur accentuée pour les titres */
+    margin-bottom: 20px; /* Augmenter l'espace sous le titre */
+    font-size: 1.5em; /* Augmenter la taille de la police du titre */
+}
+
+.liste-villes ul {
+    list-style: none; /* Pas de puces */
+    padding: 0;
+    margin: 0 0 20px 0;
+}
+
+.liste-villes li {
+    margin-bottom: 15px; /* Augmenter l'espace entre les éléments de la liste */
+}
+
+.liste-villes li a {
+    color: #00FFFF; /* Cyan pour les liens */
+    text-decoration: none; /* Pas de soulignement */
+    transition: color 0.3s; /* Transition en douceur pour le survol */
+}
+
+.liste-villes li a:hover {
+    color: #FFC20E; /* Couleur au survol */
+}
+
+/* Ajoutez des styles pour la carte si nécessaire */
+
+.carte-container {
+    width: calc(50% - 40px); /* Ajuster la largeur pour tenir compte de padding */
+    margin: 0px 20px; /* Ajoute un décalage de chaque côté */
+    padding: 0; /* Enlève le padding pour que la carte touche les bords */
+    overflow: hidden; /* Cache les débordements pour maintenir les coins arrondis */
+    /* autres styles */
+}
+
+/* Assurez-vous que la carte s'adapte bien à son conteneur */
+.leaflet-container {
+    width: 100%;
+    height: 100%;
+    margin: 0; /* Enlève la marge autour de la carte */
+    padding: 0; /* Enlève le padding autour de la carte */
+}
+
+

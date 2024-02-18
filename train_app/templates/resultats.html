@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Résultats de recherche</title>
+    <link rel="stylesheet" href="/static/CSS/style_resultats.css">
+</head>
+<body>
+    <header class="header">
+        <img src="/static/Images/logo.webp" alt="Voyageur Max Logo" class="logo">
+    </header>
+
+    <div class="container">
+        <div class="liste-villes">
+            <h1>Villes accessibles:</h1>
+            <ul>
+                {% for ville in villes %}
+                <li><a href="/resultat-{{ ville }}">{{ ville }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="carte-container">
+            {{ carte|safe }}
+        </div>
+    </div>
+</body>
+</html>

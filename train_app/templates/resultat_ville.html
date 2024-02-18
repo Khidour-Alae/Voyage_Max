@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Trajets pour {{ ville }}</title>
+    <link rel="stylesheet" href="/static/CSS/style_resultat_ville.css">
+</head>
+<body>
+    <h1>Trajets pour {{ ville }}</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Date Aller</th>
+                <th>Ville de Départ</th>
+                <th>Destination</th>
+                <th>Heure Départ Aller</th>
+                <th>Heure Arrivée Aller</th>
+                <th>Date Retour</th>
+                <th>Heure Départ Retour</th>
+                <th>Heure Arrivée Retour</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for resultat in resultats %}
+                <tr>
+                    <td>{{ resultat['Date Aller'] }}</td>
+                    <td>{{ resultat['Ville de Départ'] }}</td>
+                    <td>{{ resultat['Destination'] }}</td>
+                    <td>{{ resultat['Heure Départ Aller'] }}</td>
+                    <td>{{ resultat['Heure Arrivée Aller'] }}</td>
+                    <td>{{ resultat['Date Retour'] }}</td>
+                    <td>{{ resultat['Heure Départ Retour'] }}</td>
+                    <td>{{ resultat['Heure Arrivée Retour'] }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

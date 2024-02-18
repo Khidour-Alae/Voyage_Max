@@ -1,0 +1,40 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #121f3d; /* Couleur de fond bleu marine */
+    color: #ffffff; /* Texte blanc */
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #FFC20E; /* Titre en jaune-or pour se démarquer */
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse; /* Supprime l'espacement entre les bordures des cellules */
+    margin: 0 auto; /* Centre le tableau horizontalement */
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ffffff; /* Bordures blanches pour le quadrillage */
+    text-align: left;
+}
+
+th {
+    background-color: #122132; /* Fond plus foncé pour l'en-tête du tableau */
+    color: #FFC20E; /* Texte de l'en-tête en jaune-or */
+}
+
+
+tbody tr:hover {
+    background-color: #617dbd; /* Fond plus clair pour la ligne survolée */
+    color: white; /* Texte blanc pour la ligne survolée */
+    cursor: pointer; /* Change le curseur pour indiquer la possibilité de cliquer */
+    border: 1px solid #121f3d;
+}
+
+/* Ajoutez des styles pour les boutons ou autres éléments si nécessaire */

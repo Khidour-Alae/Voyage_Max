@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Voyageur Max</title>
+    <link rel="stylesheet" href="/static/CSS/style_index.css">
+</head>
+<body>
+    <header class="header">
+        <img src="/static/Images/logo.webp" alt="Voyageur Max Logo" class="logo">
+    </header>
+
+    <section class="feature-image-section">
+        <div class="feature-content">
+            <h2>Voyage MAX</h2>
+            <p>Explorez la France à grande vitesse</p>
+        </div>
+    </section>
+    
+    <section class="search-form">
+        <form action="/recherche" method="post">
+            <div class="form-group">
+                <label for="ville_depart">Ville de départ:</label>
+                <input type="text" id="ville_depart" name="ville_depart" placeholder="Sélectionnez une ville" autocomplete="off" required>
+                <ul id="liste_villes" class="suggestions-list"></ul>
+            </div>         
+            
+            <div class="date-group">
+                <label for="date_aller1">Date de départ:</label>
+                <p>Entre <input type="date" id="date_aller1" name="date_aller1" required>
+                <span class="et-span">et</span>
+                <input type="date" id="date_aller2" name="date_aller2" class="facultatif"> 
+                <span class="facultatif">(Facultatif)</span></p>
+            </div>            
+    
+            <div class="date-group">
+                <label for="date_retour1">Date de retour:</label>
+                <p>Entre <input type="date" id="date_retour1" name="date_retour1" required>
+                <span class="et-span">et</span>
+                <input type="date" id="date_retour2" name="date_retour2" class="facultatif">
+                <span class="facultatif">(Facultatif)</span></p>
+            </div>
+            
+            <button type="submit">Rechercher</button>
+        </form>
+    </section>
+    
+    <script src="/static/JavaScript/javascript_index.js"></script>
+</body>
+</html>
+
+
