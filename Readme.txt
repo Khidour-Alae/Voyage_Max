@@ -4,6 +4,8 @@ Voyage Max est une application web développée avec Python et Flask, conçue po
 Elle permet de trouver, à partir d'une ville de départ et de dates de voyage données, l'ensemble des destinations accessibles gratuitement grâce à l'abonnement TGV Max. 
 Les utilisateurs peuvent visualiser ces villes sur une carte, cliquer sur une ville pour explorer les trajets aller-retour disponibles, et spécifier des intervalles de dates pour l'aller et/ou le retour afin de trouver les trains correspondant à leurs plans de voyage.
 
+Lien vers les Slides de présentation: https://www.canva.com/design/DAF9LPAiVPE/askgF1_dF4WmPDJneMJltw/edit?utm_content=DAF9LPAiVPE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Fonctionnalités
 
 - Recherche de destinations TGV Max à partir d'une ville de départ et de dates de voyage.
