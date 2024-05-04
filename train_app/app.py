@@ -21,7 +21,7 @@ def rechercher_tgvmax(ville_depart, date1, date2 = None):
                   select=date%2Corigine%2Cdestination%2Cheure_depart%2Cheure_arrivee&
                   where=date%20%3E%3D%20%22{date1}%22%20and%20date%20%3C%3D%20%22{date2}%22%20and%20
                   search(origine%2C%20%22{ville_depart}%22)&
-                  order_by=date%2Cheure_depart&refine=od_happy_card%3A%22NON%22"""
+                  order_by=date%2Cheure_depart&refine=od_happy_card%3A%22OUI%22"""
 
 
     all_records = []
